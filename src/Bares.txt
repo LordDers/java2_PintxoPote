@@ -1,0 +1,10 @@
+01,Bar1,calle1#01;Tortilla Patata;Huevo*Patata*Sal;1
+02,Bar2,calle2#02;Foie;Pato*Sal;2
+03,Bar3,calle3#03;Pizza Jamon y Queso;Masa*Tomate*Queso*Jamon;2
+04,Bar4,calle4#04;Croqueta;Leche*Jamon*Huevo*Pan rallado*Sal;1
+05,Bar5,calle5#05;Patatas Bravas;Patata*Cebolla*Salsa*Sal;2
+06,Bar6,calle6#01;Tortilla Patata;Huevo*Patata*Sal;1
+07,Bar7,calle7#02;Foie;Pato*Sal;2
+08,Bar8,calle8#03;Pizza Jamon y Queso;Masa*Tomate*Queso*Jamon;2
+09,Bar9,calle9#04;Croqueta;Leche*Jamon*Huevo*Pan rallado*Sal;1
+10,Bar10,calle10#05;Patatas Bravas;Patata*Cebolla*Salsa*Sal;2

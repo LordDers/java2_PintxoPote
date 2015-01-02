@@ -1,0 +1,5 @@
+01#Tortilla Patata#Huevo,Patata,Sal#1
+02#Foie#Pato,Sal#2
+03#Pizza Jamon y Queso#Masa,Tomate,Queso,Jamon#2
+04#Croqueta#Leche,Jamon,Huevo,Pan rallado,Sal#1
+05#Patatas Bravas#Patata,Cebolla,Salsa,Sal#2

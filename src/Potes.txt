@@ -1,0 +1,6 @@
+01,Agua,1
+02,Zurito,1
+03,Vino del Anyo,1
+04,Caña,2
+05,Refresco,2
+06,Vino Crianza,2
